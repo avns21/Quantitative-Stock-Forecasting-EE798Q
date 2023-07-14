@@ -3,5 +3,5 @@
 ### KeyPoints of Project -
 #### 1-Developed a LSTM Model, an improved Recurrent Neural Networks(RNNS) for stock value prediction, 
 utilizing a decade of training data to accurately recognize patterns and forecast future values with a 2-day horizon
-#### 2-Attained 86% Directional Accuracy in LSTM model’s future value prediction by minimizing the MSE of predictions
+#### 2-Attained 98% Directional Accuracy in LSTM model’s future value prediction by minimizing the MSE of predictions
 #### 3-Utilized Python libraries (NumPy, Pandas, Keras, TensorFlow) for training the model, predicting stock values
